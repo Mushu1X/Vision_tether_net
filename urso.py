@@ -1,5 +1,5 @@
 '''
-Class to handle URSO datasets
+Class to handle Unreal datasets
 '''
 import os
 import csv
